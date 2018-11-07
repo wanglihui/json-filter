@@ -40,13 +40,16 @@
 ---
 
 数据结构定义
+
+
 | 定义是类型 | javascript类型 | 
-|----------|----------------|
-| date | Date|
+|---|---|
+| date | Date |
 | boolean| boolean|
 | number | number |
 | string | string |
 | ? | 允许此值为空,如 ?number|
+
 其他当做对象处理
 
 ### test
