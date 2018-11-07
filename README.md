@@ -41,7 +41,7 @@
 
 数据结构定义
 | 定义是类型 | javascript类型 | 
------------------------------
+|----------|----------------|
 | date | Date|
 | boolean| boolean|
 | number | number |
