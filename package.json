@@ -1,0 +1,34 @@
+{
+  "name": "json-filter",
+  "version": "0.0.1",
+  "description": "filter unexport key and value",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6",
+    "ts-node": "^7.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "json",
+    "filter"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "ISC",
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ],
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/wanglihui/json-filter.git"
+  }
+}
