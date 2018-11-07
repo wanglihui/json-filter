@@ -40,10 +40,13 @@
 ---
 
 数据结构定义
-date 日期， 对应javascript Date类型
-boolean 布尔,对应 boolean
-number 数值, 对应number
-string 字符串，对应字符串
+| 定义是类型 | javascript类型 | 
+-----------------------------
+| date | Date|
+| boolean| boolean|
+| number | number |
+| string | string |
+| ? | 允许此值为空,如 ?number|
 其他当做对象处理
 
 ### test
