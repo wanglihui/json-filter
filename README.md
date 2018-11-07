@@ -41,7 +41,9 @@
 ### Usage
 ---
 
-npm install json-filter --save
+```
+    npm install json-filter --save
+```
 
 ### 返回数据结构定义
 ---
