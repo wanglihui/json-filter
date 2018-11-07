@@ -1,6 +1,7 @@
 # json-filter
 ---
 
+
 根据用户定义的数据结构过滤掉不需要的字段
 例如，原始数据:
 ```
@@ -36,6 +37,12 @@
     }
 ```
 
+
+### Usage
+---
+
+npm install json-filter --save
+
 ### 返回数据结构定义
 ---
 
@@ -56,6 +63,3 @@
 ---
 mocha
 
-### Usage
----
-npm install json-filter --save
