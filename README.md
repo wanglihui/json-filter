@@ -43,6 +43,16 @@
 
 ```
     npm install json-filter2 --save
+    import {filter} from 'json-filter2';
+    const retobj = filter(obj, schema);
+    console.log(retobj);
+    //will output
+    {
+        id: 1,
+        family: {
+            second: 'test'
+        }
+    }
 ```
 
 ### 返回数据结构定义
