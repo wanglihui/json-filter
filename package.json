@@ -1,5 +1,5 @@
 {
-  "name": "json-filter",
+  "name": "json-filter2",
   "version": "0.0.1",
   "description": "filter unexport key and value",
   "main": "dist/index.js",

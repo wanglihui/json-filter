@@ -1,4 +1,4 @@
-# json-filter
+# json-filter2
 ---
 
 
@@ -42,7 +42,7 @@
 ---
 
 ```
-    npm install json-filter --save
+    npm install json-filter2 --save
 ```
 
 ### 返回数据结构定义
